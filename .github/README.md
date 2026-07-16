@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ora-Repo-RP/Ora-Music)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ora-Repo-RP/Jani_Music)
 
 </div>
 
