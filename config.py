@@ -27,8 +27,8 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None) or getenv("GITHUB_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_Ki_Jaanu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+JQlubPHcCPYxZjJl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+K3ZEGFDX56hhZTU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+4B3bkB4npuhiZDE1")
 SOURCE = getenv("SOURCE", "https://t.me/Jani_Sanatani_Power")
 CHAT = getenv("CHAT", "")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -52,10 +52,10 @@ votemode = {}
 autoclean = []
 confirmer = {}
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://litter.catbox.moe/ypnq0t.jpg"
+    "START_IMG_URL", "https://litter.catbox.moe/9j6k0n.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://litter.catbox.moe/ypnq0t.jpg"
+    "PING_IMG_URL", "https://litter.catbox.moe/9j6k0n.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
