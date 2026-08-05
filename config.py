@@ -23,12 +23,12 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Ora-Repo-RP/Jani_Music",
+    "https://github.com/Ora-Repo-RP/Nathing",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None) or getenv("GITHUB_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+K3ZEGFDX56hhZTU1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+4B3bkB4npuhiZDE1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DominateNothing0")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+q9gTa6gYBr5iYjZl")
 SOURCE = getenv("SOURCE", "https://t.me/Jani_Sanatani_Power")
 CHAT = getenv("CHAT", "")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
