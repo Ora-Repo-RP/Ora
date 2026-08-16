@@ -91,7 +91,7 @@ start_1 : "<b>╔══〔 ◎ {0} 〕══╗</b>
 
 <b>╚════════════════════╝</b>"
 start_2 : "<b>╔══════════════════════╗
-║  ▷  Ｗｅｌｃｏｍｅ  ║
+║   ▷ 𝗪𝐞𝐥𝐜𝐨𝐦𝐞 𝗧𝐨 𝗢꧊᱂𝛂 𝗠𝐮𝐬𝐢𝐜 ║
 ╚══════════════════════╝</b>
 
 <blockquote>◈  Hello, {0}
@@ -232,8 +232,8 @@ queue_6 : "<b>⏱️ Duration :</b> Unknown (Live Stream)\n\nClick below for ful
 queue_7 : "\nclick on button below to get whole queued list."
 queue_8 : "🎧 <b>{0}</b>\n\n🎵 <b>Streaming :</b> {1}\n📡 <b>Type :</b> {2}\n👤 <b>By :</b> {3}\n{4}"
 
-stream_1 : "<blockquote>➻ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ |</blockquote>\n<blockquote>⌯ ᴛɪᴛʟᴇ » <a href=\"{0}\">{1}</a>\n⌯ ᴅᴜʀᴀᴛɪᴏɴ » {2} ᴍɪɴᴜᴛᴇs\n⌯ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ » {3}</blockquote>\n<blockquote>♡ ᴍᴀᴅᴇ ʙʏ :- <a href=\"https://t.me/Zxoys\">♔ 𝓩𝓨𝓡̼𝓔𝓧͎͍￫ ✠ · ⨗ 『ξ』</a></blockquote>"
-stream_2 : "<blockquote>➻ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ |</blockquote>\n<blockquote>⌯ sᴛʀᴇᴀᴍ ᴛʏᴘᴇ » ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n⌯ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ » {0}</blockquote>\n<blockquote>⌬ ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ʙʏ ➣ <a href=\"https://t.me/+dOsOTS5XXMxhNzJh\">˹𝗝𝗮𝗻𝗶˼</a></blockquote>"
+stream_1 : "<b>🎧 𝗢꧊᱂𝛂 𝐒ᴛʀᴇᴀᴍ | </b>\n\n<b>❍ 𝐓ɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>{3} \n\n<b></b>"
+stream_2 : "<b>🎧 𝗢꧊᱂𝛂 𝐒ᴛʀᴇᴀᴍ | </b>\n\n<b>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}"
 
 CLOSE_BUTTON  : "ᵎ!ᵎ Close"
 BACK_BUTTON : "𓄲 Back"
@@ -241,14 +241,14 @@ NEXT_PAGE: ">"
 BACK_PAGE: "<"
 
 
-SO_B_1 : "Add"
-S_B_1 : "Add Me Your Group"
+SO_B_1 : "✙ 𝐀ᴅᴅ 𝐌є 𝐈η 𝐘συʀ 𝐆ʀσυᴘ ✙"
+S_B_1 : "✙ 𝐀ᴅᴅ 𝐌є 𝐈η 𝐘συʀ 𝐆ʀσυᴘ ✙"
 S_B_2 : "Support"
 S_B_3 : "Add Me Your Group"
 S_B_4 : "● Help and Command ●"
 S_B_5 : "Chat ۫ ׅ"
 S_B_6 : "🔔 Update ۫ ׅ"
-S_B_7 : "Source ۫ ׅ"
+S_B_7 : "⚡Source ۫ ׅ"
 S_B_8 : "YouTube ۫ ׅ"
 S_B_9 : "📞 Support ۫ ׅ"
 
