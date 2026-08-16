@@ -582,7 +582,7 @@ async def get_thumb(
 
     # ▸ Duration + requester
     draw.text(
-        (PAD, TY), f"Time Minu... {duration}",
+        (PAD, TY), f" Time Minu... {duration}",
         font=_font(27), fill=(*_CYAN, 240),
     )
     req = _strip(requester)
@@ -598,7 +598,7 @@ async def get_thumb(
     _eq_bars(draw, PAD, EQ_Y, n=14)
 
     # ▸ Branding
-    brand = " @NTHG_XBOT"
+    brand = " Ora Music"
     f_br  = _font(30, bold=False)
     bw_px = _text_width(draw, brand, f_br)
     draw.text(
