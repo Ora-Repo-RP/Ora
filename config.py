@@ -52,15 +52,15 @@ votemode = {}
 autoclean = []
 confirmer = {}
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://litter.catbox.moe/1vkbji.jpg"
+    "START_IMG_URL", "https://i.imgur.com/2mvkEuH.jpeg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://litter.catbox.moe/1vkbji.jpg"
+    "PING_IMG_URL", "https://i.imgur.com/2mvkEuH.jpeg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://litter.catbox.moe/bqjye6.jpg"
-TELEGRAM_VIDEO_URL = "https://litter.catbox.moe/bqjye6.jpg"
+STATS_IMG_URL = "https://i.imgur.com/2mvkEuH.jpeg"
+TELEGRAM_AUDIO_URL = "https://i.imgur.com/2mvkEuH.jpeg"
+TELEGRAM_VIDEO_URL = "https://i.imgur.com/2mvkEuH.jpeg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
 IQ_Proxy = "https://i.ytimg.com/vi"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
