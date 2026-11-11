@@ -52,4 +52,6 @@ beautifulsoup4==4.15.0
 pykeyboard==0.1.5
 
 # ── Heroku Restart Support ────────────────────────────────────────────
-heroku3==5.2.1
+#heroku3==5.2.1
+six
+heroku3
